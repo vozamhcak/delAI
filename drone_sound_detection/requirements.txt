@@ -1,0 +1,7 @@
+# tensorflow==2.15.0
+openl3
+librosa
+numpy<2.0
+ml-dtypes<0.3
+scikit-learn
+tqdm
