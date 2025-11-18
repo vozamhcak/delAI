@@ -3,3 +3,4 @@ data/not_drones/*
 __pycache__/
 .ipynb_checkpoints/
 *.DS_Store
+drone_sound_detection/notebooks/beats/BEATs_iter3.pt
