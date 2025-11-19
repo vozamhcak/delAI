@@ -1,0 +1,8 @@
+aiogram
+sentence-transformers
+torch
+pandas
+numpy
+razdel
+pymorphy3
+rank-bm25
